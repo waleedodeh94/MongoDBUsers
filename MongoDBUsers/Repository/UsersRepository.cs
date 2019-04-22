@@ -8,6 +8,7 @@ using MongoDBUsers.Model;
 
 namespace MongoDBUsers.Repository
 {
+    //this class s responsible for all database interaction and core business logic related to user
     public class UsersRepository : IUsersRepository
     {
         private readonly IUsersContext _context;
