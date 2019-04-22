@@ -9,6 +9,8 @@ using Swashbuckle.AspNetCore.Swagger;
 
 namespace MongoDBUsers
 {
+
+    //The Startup class is the main entry point to start the application
     public class Startup
     {
         public Startup(IConfiguration configuration)
