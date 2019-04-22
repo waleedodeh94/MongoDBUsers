@@ -6,6 +6,7 @@ using MongoDBUsers.Repository;
 
 namespace MongoDBUsers.Controllers
 {
+    //users controller defines and handles all routes / endpoints for the api that relate to users, this includes CRUD operations. 
     [Produces("application/json")]
     [Route("api/Users")]
     public class UsersController : Controller
