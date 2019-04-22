@@ -3,6 +3,7 @@ using MongoDB.Driver;
 
 namespace MongoDBUsers.Model
 {
+    //The UsersContext class is used for accessing application data
     public class UsersContext : IUsersContext
     {
         private readonly IMongoDatabase _db;
