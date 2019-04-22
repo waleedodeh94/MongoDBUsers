@@ -5,6 +5,7 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace MongoDBUsers.Model
 {
+    //this class represent all data for user
     public class Users
     {
         [BsonId]
