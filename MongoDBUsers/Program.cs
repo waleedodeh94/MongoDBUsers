@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace MongoDBUsers
 {
+    //The Program class is the main entry point to start the application
     public class Program
     {
         public static void Main(string[] args)
