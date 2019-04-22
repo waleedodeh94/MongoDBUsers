@@ -1,0 +1,44 @@
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.deps.json
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.runtimeconfig.json
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.runtimeconfig.dev.json
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.dll
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.pdb
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.csprojAssemblyReference.cache
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.csproj.CoreCompileInputs.cache
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.AssemblyInfoInputs.cache
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.AssemblyInfo.cs
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.dll
+C:\Users\wode\Desktop\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.pdb
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.deps.json
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.runtimeconfig.json
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.runtimeconfig.dev.json
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.dll
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.pdb
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.csprojAssemblyReference.cache
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.csproj.CoreCompileInputs.cache
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.AssemblyInfoInputs.cache
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.AssemblyInfo.cs
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.dll
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.pdb
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.deps.json
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.runtimeconfig.json
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.runtimeconfig.dev.json
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.dll
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBUsers.pdb
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.csprojAssemblyReference.cache
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.csproj.CoreCompileInputs.cache
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.AssemblyInfoInputs.cache
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.AssemblyInfo.cs
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.dll
+C:\Users\wode\Desktop\MongoDB-WebApi-master - Copy\MongoDBUGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBUsers.pdb
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\bin\Debug\netcoreapp2.0\MongoDBUsers.deps.json
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\bin\Debug\netcoreapp2.0\MongoDBUsers.runtimeconfig.json
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\bin\Debug\netcoreapp2.0\MongoDBUsers.runtimeconfig.dev.json
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\bin\Debug\netcoreapp2.0\MongoDBUsers.dll
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\bin\Debug\netcoreapp2.0\MongoDBUsers.pdb
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\obj\Debug\netcoreapp2.0\MongoDBUsers.csprojAssemblyReference.cache
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\obj\Debug\netcoreapp2.0\MongoDBUsers.csproj.CoreCompileInputs.cache
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\obj\Debug\netcoreapp2.0\MongoDBUsers.AssemblyInfoInputs.cache
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\obj\Debug\netcoreapp2.0\MongoDBUsers.AssemblyInfo.cs
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\obj\Debug\netcoreapp2.0\MongoDBUsers.dll
+C:\Users\wode\source\repos\MongoDBUsers\MongoDBUsers\obj\Debug\netcoreapp2.0\MongoDBUsers.pdb
