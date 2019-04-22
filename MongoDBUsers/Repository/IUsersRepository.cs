@@ -5,6 +5,7 @@ using MongoDBUsers.Model;
 
 namespace MongoDBUsers.Repository
 {
+    //contains an interface that defines the user services
     public interface IUsersRepository
     {
         Task<IEnumerable<Users>> GetAllUsers();
